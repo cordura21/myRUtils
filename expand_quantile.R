@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 expand_quantile <- function(x, p, skip.first,exclude.last = TRUE,...){
 
   x.length <- length(x)
@@ -16,3 +17,5 @@ expand_quantile <- function(x, p, skip.first,exclude.last = TRUE,...){
     return(exp_quantile_vector)  
   }
 } 
+=======
+
